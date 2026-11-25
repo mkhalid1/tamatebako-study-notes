@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [趣旨判定（IMAGES形式）](shushi-hantei.md) · 次へ: [英語](eigo.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [趣旨判定（IMAGES形式）](shushi-hantei.md) · 次へ: [英語](eigo.md)
+<!-- /nav:top -->
 
 # 言語：趣旨把握
 
@@ -90,4 +92,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [趣旨判定（IMAGES形式）](shushi-hantei.md) | 次へ: [英語](eigo.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [趣旨判定（IMAGES形式）](shushi-hantei.md) | 次へ: [英語](eigo.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

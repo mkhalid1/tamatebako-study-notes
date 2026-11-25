@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [15分診断テスト](../diagnostic.md) · 次へ: [図表の読み取り](zuhyo-yomitori.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [15分診断テスト](../diagnostic.md) · 次へ: [図表の読み取り](zuhyo-yomitori.md)
+<!-- /nav:top -->
 
 # 計数：四則逆算
 
@@ -94,4 +96,6 @@ A. 1/3　B. 5/12　C. 7/12　D. 2/3　E. 13/12
 
 ---
 
-<!-- nav:bottom -->← 前へ: [15分診断テスト](../diagnostic.md) | 次へ: [図表の読み取り](zuhyo-yomitori.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [15分診断テスト](../diagnostic.md) | 次へ: [図表の読み取り](zuhyo-yomitori.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [表の空欄の推測](kuuran-suisoku.md) · 次へ: [趣旨判定（IMAGES形式）](shushi-hantei.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [表の空欄の推測](kuuran-suisoku.md) · 次へ: [趣旨判定（IMAGES形式）](shushi-hantei.md)
+<!-- /nav:top -->
 
 # 言語：論理的読解（GAB形式）
 
@@ -89,4 +91,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [表の空欄の推測](kuuran-suisoku.md) | 次へ: [趣旨判定（IMAGES形式）](shushi-hantei.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [表の空欄の推測](kuuran-suisoku.md) | 次へ: [趣旨判定（IMAGES形式）](shushi-hantei.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

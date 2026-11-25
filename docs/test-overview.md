@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [トップページ](../README.md) · 次へ: [出題形式の見分け方](format-check.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [トップページ](../README.md) · 次へ: [出題形式の見分け方](format-check.md)
+<!-- /nav:top -->
 
 # 玉手箱とはどんなテストか
 
@@ -75,4 +77,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [トップページ](../README.md) | 次へ: [出題形式の見分け方](format-check.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [トップページ](../README.md) | 次へ: [出題形式の見分け方](format-check.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

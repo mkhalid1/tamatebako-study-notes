@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [四則逆算](shisoku-gyakuzan.md) · 次へ: [表の空欄の推測](kuuran-suisoku.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [四則逆算](shisoku-gyakuzan.md) · 次へ: [表の空欄の推測](kuuran-suisoku.md)
+<!-- /nav:top -->
 
 # 計数：図表の読み取り
 
@@ -120,4 +122,6 @@ A. 38%　B. 40%　C. 42%　D. 43%　E. 45%
 
 ---
 
-<!-- nav:bottom -->← 前へ: [四則逆算](shisoku-gyakuzan.md) | 次へ: [表の空欄の推測](kuuran-suisoku.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [四則逆算](shisoku-gyakuzan.md) | 次へ: [表の空欄の推測](kuuran-suisoku.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [論理的読解（GAB形式）](ronriteki-dokkai.md) · 次へ: [趣旨把握](shushi-haaku.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [論理的読解（GAB形式）](ronriteki-dokkai.md) · 次へ: [趣旨把握](shushi-haaku.md)
+<!-- /nav:top -->
 
 # 言語：趣旨判定（IMAGES形式）
 
@@ -88,4 +90,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [論理的読解（GAB形式）](ronriteki-dokkai.md) | 次へ: [趣旨把握](shushi-haaku.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [論理的読解（GAB形式）](ronriteki-dokkai.md) | 次へ: [趣旨把握](shushi-haaku.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

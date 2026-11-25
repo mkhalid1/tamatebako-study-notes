@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [図表の読み取り](zuhyo-yomitori.md) · 次へ: [論理的読解（GAB形式）](ronriteki-dokkai.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [図表の読み取り](zuhyo-yomitori.md) · 次へ: [論理的読解（GAB形式）](ronriteki-dokkai.md)
+<!-- /nav:top -->
 
 # 計数：表の空欄の推測
 
@@ -106,4 +108,6 @@ A. 34.4万円　B. 35.0万円　C. 35.8万円　D. 36.2万円　E. 38.0万円
 
 ---
 
-<!-- nav:bottom -->← 前へ: [図表の読み取り](zuhyo-yomitori.md) | 次へ: [論理的読解（GAB形式）](ronriteki-dokkai.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [図表の読み取り](zuhyo-yomitori.md) | 次へ: [論理的読解（GAB形式）](ronriteki-dokkai.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

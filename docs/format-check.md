@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [玉手箱とはどんなテストか](test-overview.md) · 次へ: [15分診断テスト](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [玉手箱とはどんなテストか](test-overview.md) · 次へ: [15分診断テスト](diagnostic.md)
+<!-- /nav:top -->
 
 # 出題形式の見分け方
 
@@ -61,4 +63,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [玉手箱とはどんなテストか](test-overview.md) | 次へ: [15分診断テスト](diagnostic.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [玉手箱とはどんなテストか](test-overview.md) | 次へ: [15分診断テスト](diagnostic.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

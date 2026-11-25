@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [出題形式の見分け方](format-check.md) · 次へ: [四則逆算](sections/shisoku-gyakuzan.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [出題形式の見分け方](format-check.md) · 次へ: [四則逆算](sections/shisoku-gyakuzan.md)
+<!-- /nav:top -->
 
 # 15分診断テスト
 
@@ -106,4 +108,6 @@ A. 700円　B. 750円　C. 800円　D. 850円　E. 900円
 
 ---
 
-<!-- nav:bottom -->← 前へ: [出題形式の見分け方](format-check.md) | 次へ: [四則逆算](sections/shisoku-gyakuzan.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [出題形式の見分け方](format-check.md) | 次へ: [四則逆算](sections/shisoku-gyakuzan.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

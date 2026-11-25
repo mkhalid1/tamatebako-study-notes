@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [用語集](glossary.md) · 次へ: [トップページ](../README.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [用語集](glossary.md) · 次へ: [トップページ](../README.md)
+<!-- /nav:top -->
 
 # 出典
 
@@ -63,4 +65,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [用語集](glossary.md) | 次へ: [トップページ](../README.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [用語集](glossary.md) | 次へ: [トップページ](../README.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [英語](sections/eigo.md) · 次へ: [採点と結果](scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [英語](sections/eigo.md) · 次へ: [採点と結果](scoring.md)
+<!-- /nav:top -->
 
 # 性格検査（OPQ）
 
@@ -50,4 +52,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [英語](sections/eigo.md) | 次へ: [採点と結果](scoring.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [英語](sections/eigo.md) | 次へ: [採点と結果](scoring.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->
