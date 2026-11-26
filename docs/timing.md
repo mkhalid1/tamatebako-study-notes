@@ -37,7 +37,7 @@
 
 ## 時間を計って練習する
 
-解き方を知っていても、時間の感覚は実際に計って解かないと身につきません。本ノートの練習問題も、慣れてきたら上の表の「1問あたり」の時間で解いてみてください。PrepClubsの[計数・論理のSHL形式の無料テスト30問（36分）](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)も、時間を計った練習に使えます。玉手箱と同じ形式ではない点には注意してください。
+解き方を知っていても、時間の感覚は実際に計って解かないと身につきません。本ノートの練習問題も、慣れてきたら上の表の「1問あたり」の時間で解いてみてください。PrepClubsの[計数・論理のSHL形式の無料テスト30問（36分）](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)も、時間を計った練習に使えます。玉手箱と同じ形式ではない点には注意してください。
 
 ---
 

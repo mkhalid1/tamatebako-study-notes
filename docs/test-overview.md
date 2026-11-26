@@ -73,7 +73,7 @@
 
 ## 時間を計った練習
 
-本ノートの各形式のページで解き方をつかんだら、時間を計って解く練習をしましょう。PrepClubsの[玉手箱対策ページ](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)では、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、時間内に数字と論理を処理する練習になります。
+本ノートの各形式のページで解き方をつかんだら、時間を計って解く練習をしましょう。PrepClubsの[玉手箱対策ページ](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)では、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、時間内に数字と論理を処理する練習になります。
 
 ---
 

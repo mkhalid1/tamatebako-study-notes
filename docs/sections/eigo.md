@@ -47,7 +47,7 @@
 
 </details>
 
-もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。英語の問題ではありませんが、限られた情報から正しく判断する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)
+もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。英語の問題ではありませんが、限られた情報から正しく判断する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)
 
 ## 自己採点
 

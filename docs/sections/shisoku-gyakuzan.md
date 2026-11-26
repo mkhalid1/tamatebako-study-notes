@@ -78,7 +78,7 @@ A. 1/3　B. 5/12　C. 7/12　D. 2/3　E. 13/12
 
 </details>
 
-もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、時間を計って数字を処理する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)
+もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、時間を計って数字を処理する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)
 
 ## 自己採点
 
@@ -92,7 +92,7 @@ A. 1/3　B. 5/12　C. 7/12　D. 2/3　E. 13/12
 
 ## 次のステップ
 
-四則逆算は、時間制限があると別物のように感じます。手順が固まったら、時間を計った練習で「止まらずに進む」感覚をつかみましょう。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)も、ペース配分の練習に使えます。
+四則逆算は、時間制限があると別物のように感じます。手順が固まったら、時間を計った練習で「止まらずに進む」感覚をつかみましょう。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)も、ペース配分の練習に使えます。
 
 ---
 

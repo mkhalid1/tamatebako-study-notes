@@ -73,7 +73,7 @@
 
 </details>
 
-もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、与えられた情報だけから論理的に判断する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)
+もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、与えられた情報だけから論理的に判断する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)
 
 ## 自己採点
 
@@ -87,7 +87,7 @@
 
 ## 次のステップ
 
-論理的読解は、本番の時間制限の中では「常識で補う」ミスが増えます。時間を計った練習で、本文だけを根拠にする習慣を固めましょう。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)も、時間を計った練習に使えます。
+論理的読解は、本番の時間制限の中では「常識で補う」ミスが増えます。時間を計った練習で、本文だけを根拠にする習慣を固めましょう。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)も、時間を計った練習に使えます。
 
 ---
 

@@ -43,7 +43,7 @@
 
 ## 最後の練習
 
-受検前に一度、時間を計って通しで解いておくと、本番で焦りにくくなります。PrepClubsの[計数・論理のSHL形式の無料テスト30問（36分）](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)が使えます。玉手箱と同じ形式ではありませんが、時間内に処理する練習になります。
+受検前に一度、時間を計って通しで解いておくと、本番で焦りにくくなります。PrepClubsの[計数・論理のSHL形式の無料テスト30問（36分）](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)が使えます。玉手箱と同じ形式ではありませんが、時間内に処理する練習になります。
 
 ---
 

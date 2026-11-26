@@ -90,7 +90,7 @@ A. 34.4万円　B. 35.0万円　C. 35.8万円　D. 36.2万円　E. 38.0万円
 
 </details>
 
-もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、数字の関係を時間内に見抜く練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)
+もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、数字の関係を時間内に見抜く練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)
 
 ## 自己採点
 
@@ -104,7 +104,7 @@ A. 34.4万円　B. 35.0万円　C. 35.8万円　D. 36.2万円　E. 38.0万円
 
 ## 次のステップ
 
-規則を見つける力は、時間を計って解くと伸び方が分かります。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)で、時間内に考え切る練習をしてみてください。
+規則を見つける力は、時間を計って解くと伸び方が分かります。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)で、時間内に考え切る練習をしてみてください。
 
 ---
 

@@ -104,7 +104,7 @@ A. 38%　B. 40%　C. 42%　D. 43%　E. 45%
 
 </details>
 
-もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、表から数字を拾って計算する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)
+もっと解きたい方へ：PrepClubsの玉手箱対策ページでは、計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）を受けられます。玉手箱と同じ形式ではありませんが、表から数字を拾って計算する練習になります。[PrepClubsの無料テスト](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)
 
 ## 自己採点
 
@@ -118,7 +118,7 @@ A. 38%　B. 40%　C. 42%　D. 43%　E. 45%
 
 ## 次のステップ
 
-図表の読み取りは、数字を探す時間が点数を左右します。時間を計った練習で、設問を先に読む習慣をつけましょう。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)も、時間を計った計数の練習に使えます。
+図表の読み取りは、数字を探す時間が点数を左右します。時間を計った練習で、設問を先に読む習慣をつけましょう。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)も、時間を計った計数の練習に使えます。
 
 ---
 

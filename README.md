@@ -2,7 +2,7 @@
 
 日本エス・エイチ・エル（日本SHL）のWebテスト「玉手箱」を受ける人のための、無料の対策ノートです。テストの仕組み、計数・言語・英語の形式ごとの解き方、オリジナルの練習問題30問（すべて解説付き）、性格検査の考え方、採点についての公式情報、1週間と2日間の学習プランをまとめました。テストについての事実は、日本SHLの公式ページだけをもとにし、すべて[出典](docs/sources.md)を示しています。日本SHLが公表していない問題数や時間は、就活サイトの非公式の目安であることを明記しています。
 
-まず実力を確かめたい方は、このノートの[15分診断テスト](docs/diagnostic.md)から始めてください。時間を計って解く練習には、PrepClubsの[玉手箱対策ページ](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)にある計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）も使えます。玉手箱そのものの形式ではありませんが、時間内に数字と論理を処理する練習になります。
+まず実力を確かめたい方は、このノートの[15分診断テスト](docs/diagnostic.md)から始めてください。時間を計って解く練習には、PrepClubsの[玉手箱対策ページ](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)にある計数・論理のSHL形式の無料テスト30問（36分、日本語の解説付き）も使えます。玉手箱そのものの形式ではありませんが、時間内に数字と論理を処理する練習になります。
 
 ## はじめに
 

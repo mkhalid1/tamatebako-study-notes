@@ -14,7 +14,7 @@
 | 2日目 | 四則逆算 | [四則逆算](sections/shisoku-gyakuzan.md)を読み、練習問題4問を解く。小数・分数の逆算を、時間を計って繰り返す。 |
 | 3日目 | 図表と空欄 | [図表の読み取り](sections/zuhyo-yomitori.md)と[表の空欄の推測](sections/kuuran-suisoku.md)を読み、練習問題7問を解く。間違えた問題は「分母」「単純平均」「固定費」のどれだったかを記録する。 |
 | 4日目 | 言語の3形式 | [論理的読解](sections/ronriteki-dokkai.md)、[趣旨判定](sections/shushi-hantei.md)、[趣旨把握](sections/shushi-haaku.md)を読み、練習問題10問を解く。3形式の選択肢の違いを、何も見ずに説明できるようにする。 |
-| 5日目 | 時間を計った1回目 | [時間配分](timing.md)を読む。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)など、時間を計った練習を1回通しで行う。 |
+| 5日目 | 時間を計った1回目 | [時間配分](timing.md)を読む。PrepClubsの[計数・論理のSHL形式の無料テスト30問](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)など、時間を計った練習を1回通しで行う。 |
 | 6日目 | 苦手な形式をつぶす | 苦手な形式のページの「よくあるミス」を読み直し、練習問題を答えを見ずに解き直す。市販の問題集などで、その形式の新しい問題を20問以上解く。 |
 | 7日目 | 仕上げと休養 | 英語が出る可能性があれば[英語](sections/eigo.md)を読む。[性格検査](personality.md)と[受検当日のチェックリスト](test-day-checklist.md)を読み、夕方には勉強を切り上げる。 |
 
@@ -39,7 +39,7 @@
 | 1 | 15分 | [診断テスト](diagnostic.md)を受ける。 |
 | 2 | 20分 | 各形式のページの「問題の形」と「よくあるミス」だけを読む。 |
 | 3 | 40分 | 苦手な2つの形式の練習問題を解き、正解した問題も含めて解説をすべて読む。 |
-| 4 | 40分 | 時間を計った練習を1回行う。PrepClubsの[計数・論理のSHL形式の無料テスト30問（36分）](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tamatebako)を使う。 |
+| 4 | 40分 | 時間を計った練習を1回行う。PrepClubsの[計数・論理のSHL形式の無料テスト30問（36分）](https://prepclubs.com/ja/tamatebako-taisaku?utm_source=github&utm_medium=referral&utm_campaign=xycwfk&utm_content=tamatebako)を使う。 |
 | 5 | 20分 | 間違えた問題を、上の3つの質問で振り返る。 |
 
 ### 2日目：受検する
